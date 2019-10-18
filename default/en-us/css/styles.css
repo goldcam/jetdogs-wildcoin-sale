@@ -1,0 +1,7 @@
+/* RESETS BECAUSE OF BOOT STRAP OVERWRITES */
+a.nav_drop{
+  box-sizing: unset;
+}
+nav#follow_us a:hover {
+    color:#fff;
+}
